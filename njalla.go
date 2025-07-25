@@ -3,7 +3,7 @@ package njalla
 import (
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	libdnsnjalla "github.com/engels74/libdns-njalla"
+	libdnsnjalla "github.com/dweee/libdns-njalla"
 )
 
 // Provider lets Caddy read and manipulate DNS records hosted by this DNS provider.
