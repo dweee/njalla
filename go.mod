@@ -1,4 +1,4 @@
-module github.com/caddy-dns/njalla
+module github.com/dweee/njalla
 
 go 1.16
 
